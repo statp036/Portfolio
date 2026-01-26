@@ -1,6 +1,6 @@
 # Data Scientist
 
-Focused on applied machine learning and data analytics
+Focused on applied machine learning and data mining
 
 ### Technical Skills: Python, SQL, R
 
@@ -13,14 +13,14 @@ Data Science, M.S.
 - Performed customer clustering on e-commerce transaction data
 - Engineered purchasing behavioral features 
 - Identified purchasing patterns with Apriori and association rules
-[View Project](https://github.com/statp036?tab=repositories)
+[View Project] (https://github.com/statp036/Customer-Segmentation)
 
 ## Currently exploring
 
+- Model building
+- Relational databases
 - Data visualization techniques
-- Graph-based representations for biological data
-- Sim-to-real transfer techniques
-
+- 
 ## Contact
 
 - Email: justin0b3j@gmail.com
