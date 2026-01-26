@@ -14,7 +14,9 @@ Focused on applied machine learning
 - Performed customer clustering on e-commerce transaction data
 - Engineered purchasing behavioral features 
 - Identified purchasing patterns with Apriori and association rules
+- Showed limitation of applying Gower distance and Apriori on large datasets
 [View Project] (https://github.com/statp036/Customer-Segmentation)
+![heatmap](/asset_img/output.png)
 
 ## Currently exploring
 
