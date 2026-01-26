@@ -1,5 +1,4 @@
-# Justin Jiang
-Data Scientist
+# Data Scientist
 
 Focused on applied machine learning and data analytics
 
