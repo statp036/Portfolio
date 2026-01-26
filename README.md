@@ -1,11 +1,12 @@
 # Data Scientist
 
-Focused on applied machine learning and data mining
+Focused on applied machine learning
 
 ### Technical Skills: Python, SQL, R
 
-### Education
-Data Science, M.S.
+## Education					       		
+- M.S., Data Science	| CUNY, Graduate Center (_December 2025_)	 			        		
+- B.A., Statistics | CUNY, Baruch College (_December 2023_)
 
 ## Featured Projects
 
@@ -20,7 +21,7 @@ Data Science, M.S.
 - Model building
 - Relational databases
 - Data visualization techniques
-- 
+  
 ## Contact
 
 - Email: justin0b3j@gmail.com
