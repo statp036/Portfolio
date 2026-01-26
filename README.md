@@ -15,6 +15,12 @@ Data Science, M.S.
 - Identified purchasing patterns with Apriori and association rules
 [View Project](https://github.com/statp036?tab=repositories)
 
+## Currently exploring
+
+- Data visualization techniques
+- Graph-based representations for biological data
+- Sim-to-real transfer techniques
+
 ## Contact
 
 - Email: justin0b3j@gmail.com
