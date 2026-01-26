@@ -15,4 +15,8 @@ Data Science, M.S.
 - Identified purchasing patterns with Apriori and association rules
 [View Project](https://github.com/statp036?tab=repositories)
 
+## Contact
 
+- Email: justin0b3j@gmail.com
+- LinkedIn: https://www.linkedin.com/in/justin-jiang45a/
+- GitHub: https://github.com/statp036
