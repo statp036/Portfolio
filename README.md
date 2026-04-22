@@ -29,6 +29,9 @@ Data scientist with a focus on applied machine learning and statistical analysis
 
 ---
 
+## Other Projects
+- **Data Visualization: ** https://public.tableau.com/app/profile/justin.jiang7436/vizzes
+
 ## Currently Exploring
 - End-to-end model building workflows  
 - Relational database design and querying  
